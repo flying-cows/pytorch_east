@@ -1,3 +1,7 @@
+# add 之后 又加了几条语句。需要再次add
+# 在上边加一条语句尝试在已有文件上的修改 然后 试试git add的功能
+# git add 的功能是 1. 如果该文件没有被追踪那么加上这条命令它就被追踪了
+# 2.如果一个文件修改了，需要使用git add 将文件放入到暂存区为下一次提交做准备。
 # EAST: An Efficient and Accurate Scene Text Detector
 ### Description:
 This version will be updated soon, please pay attention to this work.

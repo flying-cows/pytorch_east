@@ -1,0 +1,7 @@
+# 创建一个python虚拟环境 基于cpython 3.6.9版本。
+ python3 -m virtualenv torch_env
+created virtual environment CPython3.6.9.final.0-64 in 181ms
+  creator CPython3Posix(dest=/home/niuqin/project2/pytorch_east/torch_env, clear=False, global=False)
+  seeder FromAppData(download=False, pip=latest, setuptools=latest, wheel=latest, via=copy, app_data_dir=/home/niuqin/.local/share/virtualenv/seed-app-data/v1.0.1)
+  activators BashActivator,CShellActivator,FishActivator,PowerShellActivator,PythonActivator,XonshActivator
+

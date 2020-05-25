@@ -10,7 +10,7 @@ init_type = 'xavier'
 
 resume = False
 checkpoint = ''# should be file
-train_batch_size_per_gpu  = 14
+train_batch_size_per_gpu  = 2
 num_workers = 1
 
 print_freq = 1

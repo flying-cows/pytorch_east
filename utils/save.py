@@ -41,6 +41,7 @@ def save_loss_info(losses, epoch, current_batch, loader, path='./log.txt'):
     log_loss_path = os.path.join(dir_path, 'result', 'log_loss.txt')
     
     if not os.path.isfile(log_loss_path):
+        print(log_loss_path)
         os.mknod(log_loss_path)
 
     with open(path, 'a') as f:
